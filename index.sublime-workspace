@@ -1,0 +1,844 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function_exists"
+			],
+			[
+				"eper",
+				"eperkiraan"
+			],
+			[
+				"eid_per",
+				"eid_perkiraan"
+			],
+			[
+				"group",
+				"group_perkiraan"
+			],
+			[
+				"id_grup_p",
+				"id_grup_perkiraan"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ta",
+				"tampil"
+			],
+			[
+				"l_",
+				"l_group_perkiraan"
+			],
+			[
+				"group_perkiraa",
+				"group_perkiraan_id"
+			],
+			[
+				"eid_gru",
+				"eid_grup_perkir"
+			],
+			[
+				"id_grup_per",
+				"id_grup_perkir"
+			],
+			[
+				"id_gru",
+				"id_grup_perkir"
+			],
+			[
+				"al",
+				"align=center\t(grup_perkiraan.php)"
+			],
+			[
+				"grou",
+				"group_perkiraan_id\t(grup_perkiraan.php)"
+			],
+			[
+				"gru",
+				"group_perkiraan"
+			],
+			[
+				"gro",
+				"group_perkiraan_id\t(grup_perkiraan.php)"
+			],
+			[
+				"e",
+				"editgrupperkiraan_"
+			],
+			[
+				"id",
+				"id_grup"
+			],
+			[
+				"edit",
+				"editgrupperkiraan_"
+			],
+			[
+				"grup_",
+				"grup_edit"
+			],
+			[
+				"id_",
+				"id_grup_perkir"
+			],
+			[
+				"gr",
+				"grup_perkir"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"sak",
+				"saksi3"
+			],
+			[
+				"saksi",
+				"saksi3"
+			],
+			[
+				"saks",
+				"saksi2"
+			],
+			[
+				"mysq_fe",
+				"mysql_fetch_row"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"KETU",
+				"ketuaDEMAFT"
+			],
+			[
+				"ketua",
+				"ketuaDEMAFT"
+			],
+			[
+				"ketu",
+				"ketuaDEMAFT"
+			],
+			[
+				"esaksi_ke",
+				"esaksi_kedua"
+			],
+			[
+				"eid_saksi_ke",
+				"eid_saksi_kedua"
+			],
+			[
+				"esaks",
+				"esaksi_ketiga"
+			],
+			[
+				"esak",
+				"esaksi_ketiga"
+			],
+			[
+				"eid_sak",
+				"eid_saksi_ketiga"
+			],
+			[
+				"eid_saksi",
+				"eid_saksi_ketiga"
+			],
+			[
+				"saksi_",
+				"saksi_3"
+			],
+			[
+				"eid_ketua",
+				"eid_ketua_kpuft"
+			],
+			[
+				"eketua",
+				"eketua_kpuft"
+			],
+			[
+				"eke",
+				"eketua_kpuft"
+			],
+			[
+				"eid_ketu",
+				"eid_ketua_kpuft"
+			],
+			[
+				"eid_k",
+				"eid_ketua_kpuft"
+			],
+			[
+				"eid_",
+				"eid_ketua_demaft"
+			],
+			[
+				"query_saksike",
+				"query_saksikedua"
+			],
+			[
+				"query_sak",
+				"query_saksipertama"
+			],
+			[
+				"Pen",
+				"penanggungJawab"
+			],
+			[
+				"sty",
+				"style2"
+			],
+			[
+				"fo",
+				"font\tTag"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"el",
+				"else\t(index.php)"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"dat",
+				"date\t(cetakkartu.php)"
+			],
+			[
+				"row",
+				"row_jam_akhir"
+			],
+			[
+				"qu",
+				"query_akhr"
+			],
+			[
+				"ea",
+				"eakhir_jam"
+			],
+			[
+				"eid",
+				"eid_akhir_jam"
+			],
+			[
+				"tang",
+				"tanggal"
+			],
+			[
+				"editdu",
+				"editdurasipemilu"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"mysql_fec",
+				"mysql_fetch_array"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_array"
+			],
+			[
+				"mysql_er",
+				"mysql_error"
+			],
+			[
+				"ali",
+				"align=center"
+			],
+			[
+				"jenis",
+				"jenis_kelamin"
+			],
+			[
+				"user",
+				"userfile"
+			],
+			[
+				"na",
+				"name\tAttr"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sel",
+				"sel_file"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"fget",
+				"fgetcsv"
+			],
+			[
+				"da",
+				"data\t(pemilih.php)"
+			],
+			[
+				"sub",
+				"submit\t(pemilih.php)"
+			],
+			[
+				"db",
+				"db_pwd"
+			],
+			[
+				"CS",
+				"csv"
+			],
+			[
+				"sta",
+				"status_memilih"
+			],
+			[
+				"jeni",
+				"jenis_kelamin\t(pemilih.php)"
+			],
+			[
+				"an",
+				"antrian\t(upload.php)"
+			],
+			[
+				"stat",
+				"status_memilih\t(kerjapraktekku1db.sql)"
+			],
+			[
+				"inpu",
+				"input_jk"
+			],
+			[
+				"tambah",
+				"tambahpemilih"
+			],
+			[
+				"je",
+				"jenis_kelamin"
+			],
+			[
+				"from",
+				"from`waktu_selesai\t(proses.php)"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"cl",
+				"callout"
+			],
+			[
+				"la",
+				"large-12"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"nam",
+				"nama"
+			],
+			[
+				"F",
+				"FName"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"Pemili",
+				"Pemilihan"
+			],
+			[
+				"L",
+				"Laki-laki"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"trimmer",
+				"Trimmer: Remove blank spaces."
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: p",
+				"Set Syntax: PHP"
+			],
+			[
+				"vintage",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"vintag",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Set",
+				"Set Syntax: SQL"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"In",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"install"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Program_File/Sublime Text Build 3083/Data/Packages/User/Preferences.sublime-settings",
+		"/E/Program_File/Sublime Text Build 3083/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/ta_1/index.php",
+		"/C/xampp/htdocs/ta_1/login.php",
+		"/C/xampp/htdocs/ta_1/ceklogin.php",
+		"/C/xampp/htdocs/ta_1/otentikasi.php",
+		"/C/xampp/htdocs/ta_1/logout.php",
+		"/C/xampp/htdocs/ta_1/asset/index2.php",
+		"/C/xampp/htdocs/ta_1/koneksi.php",
+		"/D/Kuliah/Application/Dashboard Web Admin/AdminLTE/index.html",
+		"/C/xampp/htdocs/tugasakhir/login.php",
+		"/C/xampp/htdocs/tugasakhir/koneksi.php",
+		"/C/xampp/htdocs/coba_lar/routes/web.php",
+		"/C/xampp/htdocs/coba_lar/vendor/symfony/routing/Router.php",
+		"/C/xampp/htdocs/coba_lar/vendor/symfony/routing/Route.php",
+		"/C/xampp/htdocs/uas_sia/biaya.php",
+		"/E/Program_File/Sublime Text Build 3083/Data/Packages/Zeal/Zeal.sublime-settings",
+		"/C/_xampp/htdocs/sia/bootstrap/js/bootstrap.js",
+		"/C/xampp/htdocs/uas_sia/logout.php",
+		"/C/xampp/htdocs/uas_sia/koneksi.php",
+		"/C/xampp/htdocs/uas_sia/bukubesar.php",
+		"/C/xampp/htdocs/uas_sia/index.php",
+		"/C/xampp/htdocs/uas_sia/perkiraan.php",
+		"/C/xampp/htdocs/uas_sia/grup_perkiraan.php",
+		"/C/xampp/htdocs/uas_sia/hapuspemilih.php",
+		"/C/xampp/htdocs/uas_sia/cetakhadir.php",
+		"/C/xampp/htdocs/uas_sia/proses.php",
+		"/C/xampp/htdocs/uas_sia/login.php",
+		"/C/xampp/htdocs/uas_sia/welcome.php",
+		"/C/xampp/htdocs/sista/connection.php",
+		"/C/xampp/htdocs/sista/index.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/proses.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/pemilih.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/reset.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/index.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/cetak_hasil.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/resetdata.php",
+		"/E/Program_File/Sublime Text Build 3083/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/kerjapraktekku_dup/kerjapraktekku_duplikat.sql",
+		"/E/Program_File/Sublime Text Build 3083/Data/Packages/User/Zeal.sublime-settings",
+		"/E/Program_File/Sublime Text Build 3083/Data/Packages/Zeal/Default (Windows).sublime-keymap",
+		"/E/Program_File/Sublime Text Build 3083/Data/Packages/User/Zeal.sublime-settings2.json",
+		"/C/xampp/htdocs/kerjapraktekku_dup/bilikstatus.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/daftarhadir.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/import.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/login.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/bilik.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/proses_importexcel.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/contobilik.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/contohbilik.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/pemilih_tutup_upload.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/calon.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/masuk.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/konfirmasi.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/sip.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/akhir.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/daftarantri.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/cetakhadir.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/cetakkartu.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/aturuser.php",
+		"/C/xampp/htdocs/kerjapraktekku/coba_excelpemilu/proses_importexcel.php",
+		"/C/xampp/htdocs/kerjapraktekku/pemilih.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/proses_importexcel.php.php",
+		"/C/xampp/htdocs/kerjapraktekku_dup/koneksi.php",
+		"/C/xampp/htdocs/kerjapraktekku/csv2_import.php",
+		"/C/xampp/htdocs/kerjapraktekku/preview.import.php",
+		"/C/xampp/htdocs/kerjapraktekku/csv.import.php",
+		"/C/xampp/htdocs/kerjapraktekku/insert.sql.php",
+		"/C/xampp/htdocs/kerjapraktekku/upload.php",
+		"/C/xampp/htdocs/kerjapraktekku/calon.php",
+		"/C/xampp/htdocs/kerjapraktekku/welcome.php",
+		"/C/xampp/htdocs/kerjapraktekku/index.php",
+		"/C/xampp/htdocs/coba_csv/insert.sql.php",
+		"/C/xampp/htdocs/coba_csv/Data.csv",
+		"/C/xampp/htdocs/coba_csv/import.csv.php",
+		"/C/xampp/htdocs/coba_csv/Preview.Import.php",
+		"/C/xampp/htdocs/coba_csv/Import.Csv.php",
+		"/C/xampp/htdocs/kerjapraktekku/proses.php",
+		"/C/xampp/htdocs/kerjapraktekku/test.php",
+		"/C/xampp/htdocs/kerjapraktekku/terimakasih.php",
+		"/C/xampp/htdocs/kerjapraktekku/cetakkartu.php",
+		"/C/xampp/htdocs/kerjapraktekku/bilik.php",
+		"/C/xampp/htdocs/kerjapraktekku/daftarhadir.php",
+		"/C/xampp/htdocs/kerjapraktekku/kerjapraktekkudb.sql",
+		"/C/xampp/htdocs/kerjapraktekku/hapuscalonketua.php",
+		"/C/xampp/htdocs/kerjapraktekku/cetakhadir - antrian.php",
+		"/C/xampp/htdocs/kerjapraktekku/akhir.php",
+		"/C/xampp/htdocs/kerjapraktekku/konfirmasi.php",
+		"/C/xampp/htdocs/kerjapraktekku/pilih.php",
+		"/C/xampp/htdocs/kerjapraktekku/reset.php",
+		"/C/xampp/htdocs/kerjapraktekku/sip.php",
+		"/C/xampp/htdocs/kerjapraktekku/cetakhadir.php",
+		"/C/xampp/htdocs/kerjapraktekku/contohbilik.php",
+		"/C/xampp/htdocs/kerjapraktekku/login.php",
+		"/C/xampp/htdocs/kerjapraktekku/koneksi.php",
+		"/C/xampp/htdocs/e_web/index.php",
+		"/C/xampp/htdocs/e_web/assets/plugins/modernizr-2.6.2-respond-1.1.0.min.js",
+		"/C/xampp/htdocs/foundationcoba/index.php",
+		"/C/xampp/htdocs/e_web/akhir.php",
+		"/C/xampp/htdocs/webandroid/init.php",
+		"/C/xampp/htdocs/webandroid/index.php",
+		"/C/xampp/htdocs/e_web/pemilih.php",
+		"/C/xampp/htdocs/e_web/cetakhadir - ttd.php",
+		"/C/xampp/htdocs/pooltsp/editdivisi.php",
+		"/C/xampp/htdocs/pooltsp/otentikasi.php",
+		"/C/xampp/htdocs/coba_php/index.php",
+		"/C/xampp/htdocs/e_web/proses.php",
+		"/C/xampp/htdocs/e_web/web_appdb.sql",
+		"/C/xampp/htdocs/e_web/hadir.php",
+		"/C/xampp/htdocs/e_web/otentikasi.php",
+		"/C/xampp/htdocs/Toko_Web/includes/config.php",
+		"/C/xampp/htdocs/Toko_Web/includes/controllers/home.controller.php",
+		"/C/xampp/htdocs/Toko_Web/includes/views/home.php",
+		"/C/xampp/htdocs/Mobile_Web/profile.php",
+		"/C/xampp/htdocs/Mobile_Web/portofolio.php",
+		"/C/xampp/htdocs/Mobile_Web/index.php",
+		"/E/Program_File/Sublime Text Build 3083/Data/Packages/User/Plain text.sublime-settings",
+		"/C/xampp/htdocs/Mobile_Web/about.php",
+		"/C/xampp/htdocs/Mobile_Web/assets/plugins/jquerymobile/images/icons-svg/alert-white.svg",
+		"/C/xampp/htdocs/Mobile_Web/admin.php",
+		"/C/xampp/htdocs/Mobile_Web/connection.php",
+		"/C/xampp/htdocs/Mobile_Web/admin-json.php",
+		"/E/Program_File/Sublime Text Build 3083/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/Mobile_Web/assets/plugins/Chart/Chart.js",
+		"/C/xampp/htdocs/Mobile_Web/json.php",
+		"/E/Program_File/Sublime Text Build 3083/Data/Packages/Emmet/Emmet.sublime-settings",
+		"/D/htmlnya",
+		"/C/xampp/htdocs/Mobile_Web/chart.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"logout",
+			"font",
+			"<font size=\"5\">HOME</font>",
+			"editdurasipemilu",
+			"tanggal",
+			";\n",
+			"hasil",
+			"$hasil",
+			">\n",
+			"?hl=pemilih",
+			"vintage_start",
+			"myFilter",
+			"ui-filterable",
+			"hapuscalonketua.php",
+			"hapuscalonrt.php",
+			"hapuscalon",
+			"hapus",
+			"hapuscalonrt.php?id=",
+			"<?",
+			"Pemilih",
+			"hapuscalon",
+			"hapuscalonrt.php?id=",
+			"<?",
+			"hapuscalon",
+			"hapuscalonrt",
+			"hapuscalonrt.php?id",
+			"$hasil",
+			"\t\n",
+			"button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ceklogin.php"
+			],
+			[
+				"route",
+				"vendor\\symfony\\routing\\Router.php"
+			],
+			[
+				"rout",
+				"vendor\\symfony\\routing\\Route.php"
+			],
+			[
+				"ceta",
+				"cetakkartu.php"
+			],
+			[
+				"atur",
+				"aturuser.php"
+			],
+			[
+				"akhir",
+				"akhir.php"
+			],
+			[
+				"insert",
+				"assets\\plugins\\jquerymobile\\images\\icons-svg\\alert-white.svg"
+			],
+			[
+				"admin",
+				"admin-json.php"
+			],
+			[
+				"conne",
+				"connection.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
